@@ -4,7 +4,7 @@ hi
 hru?
 how r u?
 this is very  high pricce food
-10000
+10000 * 10
 5500
 whats ur name
 isit ur name
